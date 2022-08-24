@@ -1,2 +1,2 @@
 # Black Turtle Books Ecomerce Website
- A simple project
+ A simple project with little java scrip should add more in a week or less
